@@ -42,10 +42,8 @@ A fully responsive, single-page marketing site for The Outer Clove restaurant, b
 ```
 restaurant-landing/
 ├── index.html          # Main HTML file
-├── css/
-│   └── custom.css      # Custom styles
-├── js/
-│   └── main.js         # JavaScript functionality
+├── style.css      # Custom styles
+├── main.js         # JavaScript functionality
 ├── assets/             # (Optional: for local images if needed)
 └── README.md           # This file
 ```
