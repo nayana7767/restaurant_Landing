@@ -1,0 +1,3 @@
+- Update .gallery-img in style.css to use aspect-ratio for uniform shape
+- Update #modalImage in style.css to set max-height and object-fit for even appearance in modal
+- Test the gallery and modal for even picture display
